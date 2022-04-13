@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "0fa0dc7b74b6684d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4cdee7d022d5f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26665b1dc67e587f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c6d1ad902c4d8a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d50b61f32cb2316",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43d44e6ff1cfa143",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62d3327ae0c55273",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202
+  },
+  "right": {
+    "id": "72b363a1d9013184",
+    "type": "split",
+    "children": [
+      {
+        "id": "473547ff47e1843d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b687e07ef013558e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "88761852256f6cab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "892be4cd5dc51df0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8add50cabea47214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c396acdbf59352dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "04daaf14d8e35373",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282
+  },
+  "active": "de4cdee7d022d5f1",
+  "lastOpenFiles": [
+    "README.md",
+    "leetcode/easy/README.md",
+    "leetcode/medium/README.md",
+    "leetcode/hard/README.md",
+    "hackerRank/README.md",
+    "utilities/templates/kata-template.md",
+    "utilities/name_formatter.md",
+    "Notes/Technologies/Frameworks/Frameworks.md",
+    "Notes-Daily/Dailys/Week 15/2022-W15.md",
+    "Notes-Daily/Monthly/To-Check.md"
+  ]
+}

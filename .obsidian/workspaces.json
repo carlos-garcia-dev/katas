@@ -1,0 +1,160 @@
+{
+  "workspaces": {
+    "MainWorkspace": {
+      "main": {
+        "id": "0fa0dc7b74b6684d",
+        "type": "split",
+        "children": [
+          {
+            "id": "61b051d428df79df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-04-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "26665b1dc67e587f",
+        "type": "split",
+        "children": [
+          {
+            "id": "5c6d1ad902c4d8a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d50b61f32cb2316",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "43d44e6ff1cfa143",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "62d3327ae0c55273",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 222
+      },
+      "right": {
+        "id": "72b363a1d9013184",
+        "type": "split",
+        "children": [
+          {
+            "id": "960c2e4b7e750ed7",
+            "type": "tabs",
+            "dimension": 50.6036217303823,
+            "children": [
+              {
+                "id": "8add50cabea47214",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2022-04-09.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "bb233fbe39d54810",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "473547ff47e1843d",
+            "type": "tabs",
+            "dimension": 49.396378269617706,
+            "children": [
+              {
+                "id": "b687e07ef013558e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "42f50383765ce1e1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2022-04-09.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "88761852256f6cab",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "892be4cd5dc51df0",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 368
+      },
+      "active": "61b051d428df79df"
+    }
+  },
+  "active": "MainWorkspace"
+}
