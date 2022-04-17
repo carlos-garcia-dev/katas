@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "de4cdee7d022d5f1",
+        "id": "552906d65b6bd618",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -132,23 +132,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 282
   },
-  "active": "de4cdee7d022d5f1",
+  "active": "552906d65b6bd618",
   "lastOpenFiles": [
     "README.md",
+    "utilities/name_formatter.md",
+    "codewars/7-kyu/7kyu_two-to-one.md",
+    "codewars/7-kyu/7kyu_friend-or-foe.md",
+    "codewars/6-kyu/6kyu_playing-with-digits.md",
+    "().md",
+    "Fundamentals.md",
     "leetcode/easy/README.md",
     "leetcode/medium/README.md",
-    "leetcode/hard/README.md",
-    "hackerRank/README.md",
-    "utilities/templates/kata-template.md",
-    "utilities/name_formatter.md",
-    "Notes/Technologies/Frameworks/Frameworks.md",
-    "Notes-Daily/Dailys/Week 15/2022-W15.md",
-    "Notes-Daily/Monthly/To-Check.md"
+    "leetcode/hard/README.md"
   ]
 }
