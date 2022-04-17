@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/8-kyu/8kyu_even-or-odd.md",
+            "file": "codewars/8-kyu/8kyu_multiply.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/8-kyu/8kyu_even-or-odd.md",
+                "file": "codewars/8-kyu/8kyu_multiply.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "808c86daba2d6ac1",
   "lastOpenFiles": [
+    "codewars/8-kyu/8kyu_multiply.md",
     "codewars/8-kyu/8kyu_even-or-odd.md",
     "codewars/7-kyu/7kyu_two-to-one.md",
     "codewars/7-kyu/7kyu_friend-or-foe.md",
@@ -149,7 +150,6 @@
     "Mathematics.md",
     "README.md",
     "utilities/name_formatter.md",
-    "().md",
-    "Fundamentals.md"
+    "().md"
   ]
 }
