@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "552906d65b6bd618",
+        "id": "808c86daba2d6ac1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "codewars/8-kyu/8kyu_even-or-odd.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 202,
+    "collapsed": true
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "codewars/8-kyu/8kyu_even-or-odd.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,17 +140,17 @@
     "direction": "horizontal",
     "width": 282
   },
-  "active": "552906d65b6bd618",
+  "active": "808c86daba2d6ac1",
   "lastOpenFiles": [
-    "README.md",
-    "utilities/name_formatter.md",
+    "codewars/8-kyu/8kyu_even-or-odd.md",
     "codewars/7-kyu/7kyu_two-to-one.md",
     "codewars/7-kyu/7kyu_friend-or-foe.md",
+    "utilities/templates/kata-template.md",
     "codewars/6-kyu/6kyu_playing-with-digits.md",
+    "Mathematics.md",
+    "README.md",
+    "utilities/name_formatter.md",
     "().md",
-    "Fundamentals.md",
-    "leetcode/easy/README.md",
-    "leetcode/medium/README.md",
-    "leetcode/hard/README.md"
+    "Fundamentals.md"
   ]
 }

@@ -19,5 +19,3 @@ Description
 
 
 ```
-
-### Resources
