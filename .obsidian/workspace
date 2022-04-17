@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/8-kyu/8kyu_multiply.md",
+            "file": "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/8-kyu/8kyu_multiply.md",
+                "file": "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282,
-    "collapsed": true
+    "width": 282
   },
   "active": "808c86daba2d6ac1",
   "lastOpenFiles": [
+    "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
     "codewars/8-kyu/8kyu_multiply.md",
     "codewars/8-kyu/8kyu_even-or-odd.md",
     "codewars/7-kyu/7kyu_two-to-one.md",
@@ -151,7 +151,6 @@
     "codewars/6-kyu/6kyu_playing-with-digits.md",
     "Mathematics.md",
     "README.md",
-    "utilities/name_formatter.md",
-    "().md"
+    "utilities/name_formatter.md"
   ]
 }
