@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_find-the-perfect-square.md",
+            "file": "codewars/7-kyu/7kyu_reverse-words.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176,
-    "collapsed": true
+    "width": 176
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_find-the-perfect-square.md",
+                "file": "codewars/7-kyu/7kyu_reverse-words.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,19 +145,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "active": "32cf008a3f0918d1",
   "lastOpenFiles": [
-    "codewars/7-kyu/7kyu_find-the-perfect-square.md",
     "codewars/7-kyu/7kyu_reverse-words.md",
+    "codewars/7-kyu/7kyu_ones-and-zeros.md",
+    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md",
+    "codewars/7-kyu/7kyu_friend-or-foe.md",
+    "codewars/7-kyu/7kyu_two-to-one.md",
+    "codewars/7-kyu/7kyu_find-the-perfect-square.md",
     "notes-daily/dailys/week-16/20220421.md",
     "language/javascript-index.md",
     "language/00-to-check/to-check.md",
-    "cheatsheet/basic-snippets.md",
-    "language/methods/splice.md",
-    "language/methods/find.md",
-    "language/concepts/deep-copy.md",
-    "language/concepts/shallow-copy.md"
+    "cheatsheet/basic-snippets.md"
   ]
 }
