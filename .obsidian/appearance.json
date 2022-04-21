@@ -1,4 +1,7 @@
 {
   "baseFontSize": 17,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "theme": "obsidian"
 }

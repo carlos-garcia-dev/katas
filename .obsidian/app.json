@@ -4,5 +4,10 @@
   "spellcheckLanguages": [
     "es",
     "en-GB"
-  ]
+  ],
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "tabSize": 6,
+  "spellcheck": true,
+  "defaultViewMode": "source"
 }

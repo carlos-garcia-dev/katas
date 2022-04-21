@@ -1,14 +1,26 @@
 {
   "customFolder": "Day Planners",
   "mode": 1,
-  "mermaid": true,
+  "mermaid": false,
   "notesToDates": [
     {
       "notePath": "Organizar/Dailys/Week 14/Untitled.md",
       "date": "Fri Apr 08 2022"
+    },
+    {
+      "notePath": "notes-daily/dailys/20220420.md",
+      "date": "Tue Apr 19 2022"
+    },
+    {
+      "notePath": "notes-daily/dailys/week-16/20220420.md",
+      "date": "Wed Apr 20 2022"
+    },
+    {
+      "notePath": "notes-daily/dailys/week-16/20220421.md",
+      "date": "Thu Apr 21 2022"
     }
   ],
-  "completePastItems": true,
+  "completePastItems": false,
   "circularProgress": true,
   "nowAndNextInStatusBar": true,
   "showTaskNotification": false,

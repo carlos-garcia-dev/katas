@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "Templates/Week-Template",
-  "weeklyNoteFolder": "Notes-Daily/Dailys",
+  "weeklyNoteTemplate": "templates/Week-template",
+  "weeklyNoteFolder": "notes-daily/dailys",
   "localeOverride": "system-default"
 }

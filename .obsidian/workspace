@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7284be625f0b4cf3",
+        "id": "32cf008a3f0918d1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "codewars/7-kyu/7kyu_ones-and-zeros.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202,
-    "collapsed": true
+    "width": 176
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -72,13 +66,30 @@
       {
         "id": "473547ff47e1843d",
         "type": "tabs",
+        "dimension": 32.41106719367589,
         "children": [
           {
-            "id": "b687e07ef013558e",
+            "id": "c396acdbf59352dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "8add50cabea47214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
             }
           },
           {
@@ -91,6 +102,29 @@
                 "useHierarchy": true
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "711b927fadefdf38",
+        "type": "tabs",
+        "dimension": 67.58893280632411,
+        "children": [
+          {
+            "id": "8a0af055c2af20a9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e12351fbff6badb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           },
           {
             "id": "892be4cd5dc51df0",
@@ -99,58 +133,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "8add50cabea47214",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "codewars/7-kyu/7kyu_ones-and-zeros.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "c396acdbf59352dc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "04daaf14d8e35373",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 344.5
   },
-  "active": "7284be625f0b4cf3",
+  "active": "32cf008a3f0918d1",
   "lastOpenFiles": [
-    "codewars/7-kyu/7kyu_ones-and-zeros.md",
-    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md",
-    "codewars/7-kyu/7kyu_friend-or-foe.md",
-    "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
-    "Algorithms.md",
-    "README.md",
-    "codewars/8-kyu/8kyu_multiply.md",
-    "codewars/8-kyu/8kyu_even-or-odd.md",
-    "codewars/7-kyu/7kyu_two-to-one.md",
-    "utilities/templates/kata-template.md"
+    "notes-daily/dailys/week-16/20220421.md",
+    "language/javascript-index.md",
+    "language/00-to-check/to-check.md",
+    "cheatsheet/basic-snippets.md",
+    "language/methods/splice.md",
+    "language/methods/find.md",
+    "language/concepts/deep-copy.md",
+    "language/concepts/shallow-copy.md",
+    "language/syntax/let.md",
+    "language/syntax/const.md"
   ]
 }

@@ -11,9 +11,9 @@
   "hideEmpty": false,
   "open": {
     "admonitions": true,
-    "icons": true,
+    "icons": false,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
