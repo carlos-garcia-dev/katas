@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "32cf008a3f0918d1",
+        "id": "e4fa624bbf1c56b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_reverse-words.md",
+            "file": "utilities/templates/kata-template.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176
+    "width": 176,
+    "collapsed": true
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_reverse-words.md",
+                "file": "utilities/templates/kata-template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,20 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 281.5
   },
-  "active": "32cf008a3f0918d1",
+  "active": "e4fa624bbf1c56b7",
   "lastOpenFiles": [
-    "codewars/7-kyu/7kyu_reverse-words.md",
-    "codewars/7-kyu/7kyu_ones-and-zeros.md",
-    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md",
+    "utilities/templates/kata-template.md",
+    "codewars/7-kyu/7kyu_beginner-series-3-num-of-numbers.md",
+    "codewars/7-kyu/7kyu_is-this-a-triangle.md",
     "codewars/7-kyu/7kyu_friend-or-foe.md",
-    "codewars/7-kyu/7kyu_two-to-one.md",
     "codewars/7-kyu/7kyu_find-the-perfect-square.md",
-    "notes-daily/dailys/week-16/20220421.md",
-    "language/javascript-index.md",
-    "language/00-to-check/to-check.md",
-    "cheatsheet/basic-snippets.md"
+    "codewars/7-kyu/7kyu_ones-and-zeros.md",
+    "7 kyu.md",
+    "codewars/7-kyu/7kyu_reverse-words.md",
+    "codewars/7-kyu/7kyu_two-to-one.md",
+    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md"
   ]
 }

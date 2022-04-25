@@ -1,7 +1,7 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 Name: 
-Link: []()
-Level:  
+Link: [Codewars]()
+Level:  [[]]
 Tags: [[]]
 
 ---

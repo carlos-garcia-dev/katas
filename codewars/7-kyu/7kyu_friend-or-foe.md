@@ -1,5 +1,5 @@
 202204171122
-Name: **Friend or Foe?**
+Name: Friend or Foe?
 Link: [Codewars](https://www.codewars.com/kata/55b42574ff091733d900002f)
 Level: [[7 kyu]]  
 Tags: [[Fundamentals]]
