@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "katas_list/Untitled.md",
+            "file": "katas_list/katas-list.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176,
-    "collapsed": true
+    "width": 176
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "katas_list/Untitled.md",
+                "file": "katas_list/katas-list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
   },
   "active": "e4fa624bbf1c56b7",
   "lastOpenFiles": [
-    "katas_list/Untitled.md",
+    "katas_list/katas-list.md",
     "codewars/7-kyu/7kyu_beginner-series-3-num-of-numbers.md",
     "leetcode/easy/README.md",
     "README.md",
