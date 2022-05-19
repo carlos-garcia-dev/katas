@@ -37,9 +37,7 @@ digPow(46288, 3) should return 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688
 
 ---
 
-## Solution
-
-**Solution 1**
+## Solution 1
 
 ``` javascript
 const digPow = (n,p) =>{
@@ -54,7 +52,7 @@ const digPow = (n,p) =>{
 }
 ```
 
-**Solution 2**
+## Solution 2
 
 ``` javascript
 const digPow = (n,p) => {

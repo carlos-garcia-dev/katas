@@ -1,7 +1,7 @@
 202204171040
 Name: Two to One
 Link: [Codewars](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
-Level:  [[7 kyu]]
+Level: [[7 kyu]]
 Tags: [[Fundamentals]]
 
 ---
@@ -36,5 +36,3 @@ longest=(s1,s2)=>s1.concat(s2).split('').filter((elm,idx,arr)=>arr.indexOf(elm)=
 ```js
 longest=(s1,s2)=>[...new Set(s2+s1)].sort().join('')
 ```
-
-### Resources

@@ -1,7 +1,7 @@
 202204211348
 Name: Find the next perfect square!
 Link: [Codewars](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
-Level:  [[7 kyu]]
+Level: [[7 kyu]]
 Tags: [[Fundamentals]] [[Numbers]] [[Algebra]] [[Mathematics]] [[Algorithms]]
 
 ---
@@ -38,6 +38,8 @@ const findNextSquare=sq=>{
   }
 }
 ```
+
+## Solution 2
 
 ``` javascript
 // Solution 2

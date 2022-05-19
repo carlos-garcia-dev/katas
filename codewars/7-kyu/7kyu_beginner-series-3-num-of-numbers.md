@@ -1,7 +1,7 @@
 202204250743
 Name: Beginner Series #3 Sum of Numbers
 Link: [Codewars](https://www.codewars.com/kata/55f2b110f61eb01779000053)
-Level:  [[7 kyu]]
+Level: [[7 kyu]]
 Tags: [[Fundamentals]] [[Algorithms]]
 
 ---

@@ -1,7 +1,7 @@
 202204211348
 Name: Reverse words
 Link: [Codewars](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
-Level:  [[7 kyu]]
+Level: [[7 kyu]]
 Tags: [[Fundamentals]] [[Strings]]
 
 ---

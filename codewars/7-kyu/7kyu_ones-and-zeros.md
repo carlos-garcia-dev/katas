@@ -1,7 +1,7 @@
 202204201326
-Name:  Ones and Zeros
+Name: Ones and Zeros
 Link: [Codewars](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
-Level:  [[7 kyu]]
+Level: [[7 kyu]]
 Tags: [[Fundamentals]] [[Arrays]]
 
 ---

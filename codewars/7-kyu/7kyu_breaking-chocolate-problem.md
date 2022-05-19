@@ -1,7 +1,7 @@
 202204201319
 Name: Breaking chocolate problem
 Link: [Codewars](https://www.codewars.com/kata/534ea96ebb17181947000ada)
-Level:  [[7 kyu]]
+Level: [[7 kyu]]
 Tags: [[Algorithms]] [[Numbers]]
 
 ---
