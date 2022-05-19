@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4fa624bbf1c56b7",
+        "id": "c48d5439722ebcd1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "katas_list/katas-list.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176
+    "width": 130
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "katas_list/katas-list.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,17 +142,17 @@
     "width": 281.5,
     "collapsed": true
   },
-  "active": "e4fa624bbf1c56b7",
+  "active": "c48d5439722ebcd1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
     "katas_list/katas-list.md",
     "codewars/7-kyu/7kyu_beginner-series-3-num-of-numbers.md",
     "leetcode/easy/README.md",
-    "README.md",
     "codewars/7-kyu/7kyu_find-the-perfect-square.md",
     "codewars/7-kyu/7kyu_breaking-chocolate-problem.md",
     "codewars/7-kyu/7kyu_is-this-a-triangle.md",
     "utilities/templates/kata-template.md",
-    "codewars/7-kyu/7kyu_friend-or-foe.md",
-    "codewars/7-kyu/7kyu_ones-and-zeros.md"
+    "codewars/7-kyu/7kyu_friend-or-foe.md"
   ]
 }
