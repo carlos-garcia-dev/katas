@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
+            "file": "codewars/8-kyu/8kyu_return-negative.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
+                "file": "codewars/8-kyu/8kyu_return-negative.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "0fa2233b0f75475a",
   "lastOpenFiles": [
+    "codewars/8-kyu/8kyu_return-negative.md",
     "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
     "codewars/8-kyu/8kyu_string-repeat.md",
     "codewars/8-kyu/8kyu_even-or-odd.md",
@@ -157,7 +158,6 @@
     "Untitled.md",
     "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
     "codewars/6-kyu/6kyu_playing-with-digits.md",
-    "codewars/7-kyu/7kyu_beginner-series-3-num-of-numbers.md",
-    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md"
+    "codewars/7-kyu/7kyu_beginner-series-3-num-of-numbers.md"
   ]
 }
