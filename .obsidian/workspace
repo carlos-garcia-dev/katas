@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
+            "file": "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
       {
         "id": "473547ff47e1843d",
         "type": "tabs",
-        "dimension": 32.41106719367589,
+        "dimension": 32.70750988142292,
         "children": [
           {
             "id": "c396acdbf59352dc",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
+                "file": "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
       {
         "id": "711b927fadefdf38",
         "type": "tabs",
-        "dimension": 67.58893280632411,
+        "dimension": 67.29249011857708,
         "children": [
           {
             "id": "8a0af055c2af20a9",
@@ -145,19 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 232.5
   },
   "active": "0fa2233b0f75475a",
   "lastOpenFiles": [
+    "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
+    "codewars/8-kyu/8kyu_string-repeat.md",
+    "codewars/8-kyu/8kyu_even-or-odd.md",
+    "codewars/8-kyu/8kyu_multiply.md",
+    "codewars/7-kyu/7kyu_ones-and-zeros.md",
+    "Untitled.md",
     "codewars/5-kyu/5kyu_moving-zeroes-to-the-end.md",
     "codewars/6-kyu/6kyu_playing-with-digits.md",
     "codewars/7-kyu/7kyu_beginner-series-3-num-of-numbers.md",
-    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md",
-    "codewars/7-kyu/7kyu_find-the-perfect-square.md",
-    "codewars/7-kyu/7kyu_friend-or-foe.md",
-    "codewars/7-kyu/7kyu_is-this-a-triangle.md",
-    "codewars/7-kyu/7kyu_reverse-words.md",
-    "codewars/7-kyu/7kyu_ones-and-zeros.md",
-    "codewars/7-kyu/7kyu_two-to-one.md"
+    "codewars/7-kyu/7kyu_breaking-chocolate-problem.md"
   ]
 }

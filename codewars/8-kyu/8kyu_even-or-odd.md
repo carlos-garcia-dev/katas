@@ -15,5 +15,5 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 ## Solution
 
 ``` javascript
-	even_or_odd=n=>n%2===0?'Even':'Odd'
+even_or_odd=n=>n%2===0?'Even':'Odd'
 ```

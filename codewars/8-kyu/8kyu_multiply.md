@@ -15,5 +15,5 @@ This code does not execute properly. Try to figure out why.
 ## Solution
 
 ``` javascript
-	multiply=(a,b)=>a*b
+multiply=(a,b)=>a*b
 ```
