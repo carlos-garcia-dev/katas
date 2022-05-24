@@ -1,6 +1,6 @@
 202205231902
 Name: **String repeat**
-Link: [Codewars]()
+Link: [Codewars](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 Level:  [[8 kyu]]
 Tags: [[Fundamentals]]
 
