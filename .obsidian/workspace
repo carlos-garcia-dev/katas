@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/8-kyu/8kyu-square-sum.md",
+            "file": "codewars/6-kyu/6kyu_persistent-bugger.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/8-kyu/8kyu-square-sum.md",
+                "file": "codewars/6-kyu/6kyu_persistent-bugger.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,14 +125,6 @@
             }
           },
           {
-            "id": "4e12351fbff6badb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "892be4cd5dc51df0",
             "type": "leaf",
             "state": {
@@ -149,6 +141,8 @@
   },
   "active": "5cd65943ea805880",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_persistent-bugger.md",
+    "codewars/6-kyu/6kyu_playing-with-digits.md",
     "codewars/8-kyu/8kyu-square-sum.md",
     "codewars/8-kyu/8kyu-convert-boolean-values-to-strings.md",
     "codewars/8-kyu/8kyu_string-repeat.md",
@@ -156,8 +150,6 @@
     "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
     "codewars/8-kyu/8kyu_multiply.md",
     "codewars/8-kyu/8kyu_even-or-odd.md",
-    "codewars/8-kyu/8kyu_counting-sheep.md",
-    "codewars/8-kyu/8kyu_convert-a-number-to-a-string.md",
-    "codewars/7-kyu/7kyu_ones-and-zeros.md"
+    "codewars/8-kyu/8kyu_counting-sheep.md"
   ]
 }
