@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/6kyu_find-the-missing-letter.md",
+            "file": "codewars/6-kyu/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/6kyu_find-the-missing-letter.md",
+                "file": "codewars/6-kyu/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "5cd65943ea805880",
   "lastOpenFiles": [
+    "codewars/6-kyu/Untitled.md",
     "codewars/6-kyu/6kyu_find-the-missing-letter.md",
     "codewars/6-kyu/6kyu_persistent-bugger.md",
     "codewars/6-kyu/6kyu_playing-with-digits.md",
@@ -157,7 +158,6 @@
     "codewars/8-kyu/8kyu_string-repeat.md",
     "codewars/8-kyu/8kyu_return-negative.md",
     "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
-    "codewars/8-kyu/8kyu_multiply.md",
-    "codewars/8-kyu/8kyu_even-or-odd.md"
+    "codewars/8-kyu/8kyu_multiply.md"
   ]
 }
