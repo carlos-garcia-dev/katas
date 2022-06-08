@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_find-the-vowels.md",
+            "file": "codewars/7-kyu/7kyu_flatten_and_sort_an_array.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_find-the-vowels.md",
+                "file": "codewars/7-kyu/7kyu_flatten_and_sort_an_array.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "5fcc736e6c8e195b",
   "lastOpenFiles": [
-    "codewars/7-kyu/7kyu_find-the-vowels.md",
     "codewars/7-kyu/7kyu_flatten_and_sort_an_array.md",
+    "codewars/7-kyu/7kyu_friend-or-foe.md",
+    "codewars/7-kyu/7kyu_find-the-perfect-square.md",
+    "codewars/7-kyu/7kyu_find-the-vowels.md",
     "codewars/6-kyu/6kyu_sort-the-odd.md",
     "codewars/6-kyu/6kyu_find-the-unique-number.md",
     "Untitled.md",
     "codewars/6-kyu/6kyu_playing-with-digits.md",
     "codewars/6-kyu/Untitled.md",
-    "codewars/6-kyu/6kyu_find-the-missing-letter.md",
-    "codewars/6-kyu/6kyu_persistent-bugger.md",
-    "codewars/8-kyu/8kyu-square-sum.md"
+    "codewars/6-kyu/6kyu_find-the-missing-letter.md"
   ]
 }
