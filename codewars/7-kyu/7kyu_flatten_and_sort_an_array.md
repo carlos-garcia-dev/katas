@@ -1,6 +1,6 @@
 202205191604
 Name: Flatten and sort an array
-Link: [Codewars]()
+Link: [Codewars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/)
 Level: [[7 kyu]]
 Tags: [[Fundamentals]] [[Arrays]] [[Sorting]] [[Algorithms]] [[Lambdas]] [[Funtional-prgramming]] [[Functions]] [[Declarative-Programming]] [[Control-Flow]] [[Basic-Language-Features]]
 
