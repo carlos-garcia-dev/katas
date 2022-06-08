@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd65943ea805880",
+        "id": "56764bbddf10ae6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/Untitled.md",
+            "file": "codewars/6-kyu/6kyu_find-the-unique-number.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/Untitled.md",
+                "file": "codewars/6-kyu/6kyu_find-the-unique-number.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "5cd65943ea805880",
+  "active": "56764bbddf10ae6c",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_find-the-unique-number.md",
+    "codewars/6-kyu/6kyu_playing-with-digits.md",
     "codewars/6-kyu/Untitled.md",
     "codewars/6-kyu/6kyu_find-the-missing-letter.md",
     "codewars/6-kyu/6kyu_persistent-bugger.md",
-    "codewars/6-kyu/6kyu_playing-with-digits.md",
     "codewars/8-kyu/8kyu-square-sum.md",
     "codewars/8-kyu/8kyu-convert-boolean-values-to-strings.md",
     "codewars/8-kyu/8kyu_string-repeat.md",
     "codewars/8-kyu/8kyu_return-negative.md",
-    "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
-    "codewars/8-kyu/8kyu_multiply.md"
+    "codewars/8-kyu/8kyu_remove-first-and-last-character.md"
   ]
 }
