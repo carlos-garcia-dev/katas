@@ -1,7 +1,7 @@
 202206091609
 Name: **Count the divisors of a number**
 Link: [Codewars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
-Level:  [[7kyu]]
+Level:  [[7 kyu]]
 Tags: [[Number-theory]] [[Mathematics]] [[Fundamentals]]
 
 ---

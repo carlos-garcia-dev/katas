@@ -1,7 +1,7 @@
 202205232155
 Name: **Square(n) Sum**
 Link: [Codewars](https://www.codewars.com/kata/515e271a311df0350d00000f)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Arithmetic]] [[Mathematics]] [[Algorithms]] [[Numbers]] [[Arrays]] [[Lists]] [[Data-Structures]]
 
 ---

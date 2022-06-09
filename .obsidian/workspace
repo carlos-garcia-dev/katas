@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_count-the-divisors-of-a-number.md",
+            "file": "codewars/6-kyu/6kyu_weird-string-case.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_count-the-divisors-of-a-number.md",
+                "file": "codewars/6-kyu/6kyu_weird-string-case.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "5fcc736e6c8e195b",
   "lastOpenFiles": [
-    "codewars/7-kyu/7kyu_count-the-divisors-of-a-number.md",
-    "codewars/7-kyu/7kyu_anagram-direction.md",
-    "codewars/6-kyu/6kyu_count-characters-in-your-string.md",
-    "codewars/6-kyu/6kyu_title-case.md",
-    "codewars/6-kyu/6kyu_playing-with-digits.md",
-    "codewars/6-kyu/6kyu_mexican-wave.md",
-    "codewars/7-kyu/7kyu_flatten_and_sort_an_array.md",
-    "codewars/7-kyu/7kyu_friend-or-foe.md",
-    "codewars/7-kyu/7kyu_find-the-perfect-square.md",
-    "codewars/7-kyu/7kyu_find-the-vowels.md"
+    "codewars/6-kyu/6kyu_weird-string-case.md",
+    "codewars/8-kyu/8kyu_convert-a-number-to-a-string.md",
+    "codewars/8-kyu/8kyu_counting-sheep.md",
+    "codewars/8-kyu/8kyu_even-or-odd.md",
+    "codewars/8-kyu/8kyu_multiply.md",
+    "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
+    "codewars/8-kyu/8kyu_return-negative.md",
+    "codewars/8-kyu/8kyu_string-repeat.md",
+    "codewars/8-kyu/8kyu-convert-boolean-values-to-strings.md",
+    "codewars/8-kyu/8kyu-square-sum.md"
   ]
 }

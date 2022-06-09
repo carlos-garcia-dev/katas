@@ -1,7 +1,7 @@
 202205232031
 Name:  **Return Negative**
 Link: [Codewars](https://www.codewars.com/kata/55685cd7ad70877c23000102)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Numbers]]
 
 ---

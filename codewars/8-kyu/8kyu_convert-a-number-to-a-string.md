@@ -1,7 +1,7 @@
 202205241011
 Name: **Convert a Number to a String!**
 Link: [Codewars](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Type-Casting]] [[Numbers]] [[Strings]]
 
 ---

@@ -1,7 +1,7 @@
 202205232158
 Name: **Counting sheep...**
 Link: [Codewars](https://www.codewars.com/kata/54edbc7200b811e956000556)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Arrays]]
 
 ---

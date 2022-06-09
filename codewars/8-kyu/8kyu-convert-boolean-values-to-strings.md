@@ -1,7 +1,7 @@
 202205241014
 Name:  **Convert boolean values to strings 'Yes' or 'No'**
 Link: [Codewars](https://www.codewars.com/kata/53369039d7ab3ac506000467)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Booleans]] [[Best-Practices]]
 
 ---

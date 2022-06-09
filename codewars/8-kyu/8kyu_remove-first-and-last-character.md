@@ -1,7 +1,7 @@
 202205231901
 Name: **Remove First and Last Character**
 Link: [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Basic-Language-Features]] [[Strings]]
 
 ---

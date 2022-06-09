@@ -1,7 +1,7 @@
 202204171233
 Name: **Multiply**
 Link: [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Bugs]]
 
 ---

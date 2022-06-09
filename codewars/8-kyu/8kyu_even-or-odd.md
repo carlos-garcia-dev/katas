@@ -1,7 +1,7 @@
 202204171219
 Name: **Even or Odd**
 Link: [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
-Level:  [[8 kyu]]
+Level: [[8 kyu]]
 Tags: [[Fundamentals]] [[Mathematics]] [[Algorithms]] [[Numbers]]
 
 ---
