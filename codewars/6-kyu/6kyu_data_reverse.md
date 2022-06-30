@@ -34,7 +34,7 @@ The data is given in an array as such:
 
 ---
 
-## Solution
+## Solution 1:
 
 ``` javascript
 const dataReverse = data => {
@@ -46,4 +46,10 @@ const dataReverse = data => {
   }
   return result.reverse().join().split(',').map(e=>+e)
 }
+```
+
+## Solution 2:
+
+``` javascript
+const dataReverse = a => a.join``.match(/\d{8}/g).reverse().join``.split``.map(Number);
 ```

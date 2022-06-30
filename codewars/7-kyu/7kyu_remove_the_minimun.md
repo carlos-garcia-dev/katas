@@ -1,6 +1,6 @@
 202206301707
 Name: **Remove the minimum**
-Link: [Codewars]()
+Link: [Codewars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 Level:  [[7 kyu]]
 Tags: [[Lists]] [[Data-Structures]] [[Arrays]] [[Fundamentals]]
 

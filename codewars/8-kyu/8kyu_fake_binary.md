@@ -1,6 +1,6 @@
 202206301719
 Name: **Fake Binary**
-Link: [Codewars]()
+Link: [Codewars](https://www.codewars.com/kata/57eae65a4321032ce000002d/)
 Level:  [[8 kyu]]
 Tags: [[Fundamentals]] [[Strings]] [[Arrays]]
 
