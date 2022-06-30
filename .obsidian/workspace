@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_sum_of_a_sequence.md",
+            "file": "codewars/7-kyu/7kyu_check_the_exam.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_sum_of_a_sequence.md",
+                "file": "codewars/7-kyu/7kyu_check_the_exam.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "ab806f51c16c156d",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_check_the_exam.md",
     "codewars/7-kyu/7kyu_sum_of_a_sequence.md",
     "codewars/7-kyu/7kyu_fizz_buzz.md",
     "codewars/7-kyu/7kyu_find-the-vowels.md",
@@ -157,7 +158,6 @@
     "codewars/6-kyu/6kyu_data_reverse.md",
     "codewars/6-kyu/6kyu_highest-scoring-word.md",
     "codewars/7-kyu/7kyu_remove_the_minimun.md",
-    "codewars/6-kyu/6kyu_break_camelCase.md",
-    "codewars/8-kyu/8kyu_fake_binary.md"
+    "codewars/6-kyu/6kyu_break_camelCase.md"
   ]
 }
