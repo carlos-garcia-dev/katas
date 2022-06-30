@@ -1,6 +1,6 @@
 202206301739
 Name: **JavaScript Array Filter**
-Link: [Codewars]()
+Link: [Codewars](https://www.codewars.com/kata/514a6336889283a3d2000001)
 Level:  [[7 kyu]]
 Tags: [[Arrays]] [[Fundamentals]]
 

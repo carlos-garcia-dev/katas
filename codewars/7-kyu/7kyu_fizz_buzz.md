@@ -24,7 +24,6 @@ N will never be less than 1.
 fizzbuzz(3) -->  [1, 2, "Fizz"]
 ```
 
-
 ---
 
 ## Solution
