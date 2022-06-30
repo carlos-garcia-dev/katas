@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_remove_the_minimun.md",
+            "file": "codewars/6-kyu/6kyu_break_camelCase.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_remove_the_minimun.md",
+                "file": "codewars/6-kyu/6kyu_break_camelCase.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "ab806f51c16c156d",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_break_camelCase.md",
     "codewars/7-kyu/7kyu_remove_the_minimun.md",
     "codewars/7-kyu/7kyu_ones-and-zeros.md",
     "codewars/7-kyu/7kyu_anagram-direction.md",
@@ -157,7 +158,6 @@
     "codewars/6-kyu/6kyu_weird-string-case.md",
     "codewars/8-kyu/8kyu_convert-a-number-to-a-string.md",
     "codewars/8-kyu/8kyu_counting-sheep.md",
-    "codewars/8-kyu/8kyu_even-or-odd.md",
-    "codewars/8-kyu/8kyu_multiply.md"
+    "codewars/8-kyu/8kyu_even-or-odd.md"
   ]
 }
