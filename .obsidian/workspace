@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/6kyu_highest-scoring-word.md",
+            "file": "codewars/7-kyu/7kyu_remove_the_minimun.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 130
+    "width": 464
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/6kyu_highest-scoring-word.md",
+                "file": "codewars/7-kyu/7kyu_remove_the_minimun.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,8 @@
   },
   "active": "ab806f51c16c156d",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_remove_the_minimun.md",
+    "codewars/7-kyu/7kyu_anagram-direction.md",
     "codewars/6-kyu/6kyu_highest-scoring-word.md",
     "codewars/6-kyu/6kyu_create-phone-number.md",
     "codewars/6-kyu/6kyu_weird-string-case.md",
@@ -156,8 +158,6 @@
     "codewars/8-kyu/8kyu_counting-sheep.md",
     "codewars/8-kyu/8kyu_even-or-odd.md",
     "codewars/8-kyu/8kyu_multiply.md",
-    "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
-    "codewars/8-kyu/8kyu_return-negative.md",
-    "codewars/8-kyu/8kyu_string-repeat.md"
+    "codewars/8-kyu/8kyu_remove-first-and-last-character.md"
   ]
 }
