@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464
+    "width": 338
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -150,6 +150,7 @@
   "active": "ab806f51c16c156d",
   "lastOpenFiles": [
     "codewars/7-kyu/7kyu_remove_the_minimun.md",
+    "codewars/7-kyu/7kyu_ones-and-zeros.md",
     "codewars/7-kyu/7kyu_anagram-direction.md",
     "codewars/6-kyu/6kyu_highest-scoring-word.md",
     "codewars/6-kyu/6kyu_create-phone-number.md",
@@ -157,7 +158,6 @@
     "codewars/8-kyu/8kyu_convert-a-number-to-a-string.md",
     "codewars/8-kyu/8kyu_counting-sheep.md",
     "codewars/8-kyu/8kyu_even-or-odd.md",
-    "codewars/8-kyu/8kyu_multiply.md",
-    "codewars/8-kyu/8kyu_remove-first-and-last-character.md"
+    "codewars/8-kyu/8kyu_multiply.md"
   ]
 }
