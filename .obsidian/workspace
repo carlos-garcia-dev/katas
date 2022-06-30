@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_fizz_buzz.md",
+            "file": "codewars/7-kyu/7kyu_javascript_array_filter.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_fizz_buzz.md",
+                "file": "codewars/7-kyu/7kyu_javascript_array_filter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "ab806f51c16c156d",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_javascript_array_filter.md",
     "codewars/7-kyu/7kyu_fizz_buzz.md",
     "codewars/6-kyu/6kyu_data_reverse.md",
     "codewars/6-kyu/6kyu_highest-scoring-word.md",
@@ -157,7 +158,6 @@
     "codewars/8-kyu/8kyu_fake_binary.md",
     "codewars/7-kyu/7kyu_ones-and-zeros.md",
     "codewars/7-kyu/7kyu_anagram-direction.md",
-    "codewars/6-kyu/6kyu_create-phone-number.md",
-    "codewars/6-kyu/6kyu_weird-string-case.md"
+    "codewars/6-kyu/6kyu_create-phone-number.md"
   ]
 }
