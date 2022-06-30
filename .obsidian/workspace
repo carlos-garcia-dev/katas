@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/Untitled.md",
+            "file": "codewars/7-kyu/7kyu_fizz_buzz.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/Untitled.md",
+                "file": "codewars/7-kyu/7kyu_fizz_buzz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
   },
   "active": "ab806f51c16c156d",
   "lastOpenFiles": [
-    "codewars/7-kyu/Untitled.md",
+    "codewars/7-kyu/7kyu_fizz_buzz.md",
     "codewars/6-kyu/6kyu_data_reverse.md",
     "codewars/6-kyu/6kyu_highest-scoring-word.md",
     "codewars/7-kyu/7kyu_remove_the_minimun.md",

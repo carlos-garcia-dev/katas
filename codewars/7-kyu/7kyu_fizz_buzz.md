@@ -1,6 +1,6 @@
 202206301736
 Name: **Fizz Buzz**
-Link: [Codewars]()
+Link: [Codewars](https://www.codewars.com/kata/5300901726d12b80e8000498)
 Level:  [[7 kyu]]
 Tags: [[Algorithms]] [[Fundamentals]] [[Arrays]]
 
