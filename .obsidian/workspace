@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab806f51c16c156d",
+        "id": "cd2301476e19bc0b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
+            "file": "7kyu_remove_anchor_from_URL.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
+                "file": "7kyu_remove_anchor_from_URL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "706ffa02ea0aa0b9",
+            "id": "73c2d30a4cd216f3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "ab806f51c16c156d",
+  "active": "cd2301476e19bc0b",
   "lastOpenFiles": [
+    "7kyu_remove_anchor_from_URL.md",
+    "codewars/7-kyu/7kyu_anagram-direction.md",
+    "codewars/6-kyu/6kyu_reverse_and_rotate.md",
+    "codewars/6-kyu/6kyu_closures_and_scopes.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
     "codewars/8-kyu/8kyu_convert-boolean-values-to-strings.md",
     "codewars/8-kyu/8kyu_square-sum.md",
-    "codewars/7-kyu/7kyu_greet_me.md",
-    "codewars/7-kyu/7kyu_power_of_two.md",
-    "codewars/7-kyu/7kyu_check_the_exam.md",
-    "codewars/7-kyu/7kyu_sum_of_a_sequence.md",
-    "codewars/7-kyu/7kyu_fizz_buzz.md",
-    "codewars/7-kyu/7kyu_find-the-vowels.md",
-    "codewars/7-kyu/7kyu_javascript_array_filter.md"
+    "codewars/7-kyu/7kyu_greet_me.md"
   ]
 }
