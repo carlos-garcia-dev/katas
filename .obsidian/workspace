@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7kyu_remove_anchor_from_URL.md",
+            "file": "codewars/7-kyu/7kyu_summing_a_numbers_digits.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7kyu_remove_anchor_from_URL.md",
+                "file": "codewars/7-kyu/7kyu_summing_a_numbers_digits.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,8 @@
   },
   "active": "cd2301476e19bc0b",
   "lastOpenFiles": [
-    "7kyu_remove_anchor_from_URL.md",
+    "codewars/7-kyu/7kyu_summing_a_numbers_digits.md",
+    "codewars/7-kyu/7kyu_remove_anchor_from_URL.md",
     "codewars/7-kyu/7kyu_anagram-direction.md",
     "codewars/6-kyu/6kyu_reverse_and_rotate.md",
     "codewars/6-kyu/6kyu_closures_and_scopes.md",
@@ -157,7 +158,6 @@
     "README.md",
     "codewars/8-kyu/8kyu_remove-first-and-last-character.md",
     "codewars/8-kyu/8kyu_convert-boolean-values-to-strings.md",
-    "codewars/8-kyu/8kyu_square-sum.md",
-    "codewars/7-kyu/7kyu_greet_me.md"
+    "codewars/8-kyu/8kyu_square-sum.md"
   ]
 }
